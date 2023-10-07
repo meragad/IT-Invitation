@@ -1,0 +1,33 @@
+
+body{
+    color: #fff;
+    background-color: #111;
+}
+.intro{
+  display: block;
+  border: 1px solid green;
+}
+.h1, .h2, .btn1 {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.schooltag{
+  margin-bottom: 50px;
+}
+.btnn{
+  padding: 10px 15px;
+  background-color: #111;
+  color: rgb(99, 42, 243);
+  border: 2px solid  rgb(99, 42, 243) ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 800;
+
+
+}
+.btnn:hover{
+  background-color: rgb(99, 42, 243) ;
+  color: #111;
+}

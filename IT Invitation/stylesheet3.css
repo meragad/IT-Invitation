@@ -1,0 +1,39 @@
+body{
+    color: #fff;
+    background-color: #111;
+}
+.btnn{
+    background-color: #111;
+    color: rgb(99, 42, 243);
+    border: 2px solid  rgb(99, 42, 243) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    padding: 10px 15px ;
+}
+.btnn:hover{
+    background-color: rgb(99, 42, 243) ;
+    color: #111;
+}
+.input{
+    background-color: #111;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    padding: 10px 15px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(99, 42, 243);
+
+}
+.inputholder{
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.all{
+    margin-top: 50px;
+}
+.btn1{
+
+}
